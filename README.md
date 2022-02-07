@@ -20,10 +20,10 @@
 </p>
 
 
-- 🔭 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+- 🔭 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 - 💻 I take great care in the experience, architecture, and code quality of the things I build.
-- 💼 any freelance work? do reach, [email](mailto:amtrafid@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](mailto:amtrafid@gmail.com) :)
+- 💬 Ask me about anything, i am happy to help;
 
 <h3>Where to find me</h3>
 <p>
