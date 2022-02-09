@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Tahmidur Rafid, an undergraduate student pursuing a BSc. degree in Computer Sceince and Engineering at Bangladesh University of Engineering & Technology, currently living in <b>Dhaka, bangladesh</b>. </p>
+<p>Welcome to my profile! </br> I'm Tahmidur Rafid, an undergraduate student pursuing a BSc. in Computer Sceince and Engineering at Bangladesh University of Engineering & Technology, currently living in <b>Dhaka, Bangladesh</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
@@ -15,15 +15,13 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />  
 </p>
 
 
-- 🔭 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
-- 💻 I take great care in the experience, architecture, and code quality of the things I build.
-- 💼 Any freelance work? do reach, [email](mailto:amtrafid@gmail.com) :)
-- 💬 Ask me about anything, i am happy to help;
+- 🔭 My passion for development lies in dreaming up with new ideas and making them come true with elegant interfaces.
+- 💻 I take great care of the experience, architecture, and code quality for the things I build.
+- 💼 Any freelance work? Do reach, [email](mailto:amtrafid@gmail.com) or hire me on [upwork](https://www.upwork.com/freelancers/~01d8758a48b5514faa) :)
+- 💬 Ask me about anything, I am happy to help.
 
 <h3>Where to find me</h3>
 <p>
