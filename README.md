@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my profile! </br> I'm Tahmidur Rafid, an undergraduate student pursuing a BSc. in Computer Sceince and Engineering at Bangladesh University of Engineering & Technology, currently living in <b>Dhaka, Bangladesh</b>. </p>
+<p>Welcome to my profile! </br> I'm Tahmidur Rafid, an undergraduate student pursuing a BSc. in Computer Science and Engineering at Bangladesh University of Engineering & Technology, currently living in <b>Dhaka, Bangladesh</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
