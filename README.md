@@ -3,7 +3,7 @@
 <p>Welcome to my profile! </br> I'm Tahmidur Rafid, an undergraduate student pursuing a BSc. in Computer Science and Engineering at Bangladesh University of Engineering & Technology, currently living in <b>Dhaka, Bangladesh</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />  
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />  
