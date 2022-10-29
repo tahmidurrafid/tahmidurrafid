@@ -4,6 +4,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=java&logoColor=white" />
+  <img alt=".NET core" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=java&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />  
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />  
